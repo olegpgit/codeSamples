@@ -1,2 +1,3 @@
-# Some of my code  
+# codeSamples
+ Some of my code  
 
